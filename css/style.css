@@ -17,11 +17,11 @@ h1 {
     font-weight: weight;
     font-style: normal;
     margin-top: 150px;
-    text-shadow: 1px 1px 2px black, 0 0 25px rgb(64, 64, 192), 0 0 5px darkblue;
+    text-shadow: 0 0 25px rgb(64, 64, 192), 0 0 5px darkblue;
 }
 
-video {
-    height: 300px;
+iframe {
+    width: 600px;
     margin-left: 30px;
 }
 
@@ -32,7 +32,7 @@ div {
 p {
     font-size: 27px;
     float: left;
-    width: 60%;
+    width: 55%;
     color: white;
     font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
